@@ -159,6 +159,8 @@ p, li { white-space: pre-wrap; }
           <item>
            <widget class="QTextEdit" name="textEdit"/>
           </item>
+         </layout>
+        </item>
        </layout>
       </widget>
       <widget class="QWidget" name="tab_2">

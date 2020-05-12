@@ -1,0 +1,8 @@
+﻿  Generate moc_predefs.h
+  Moc'ing mainwindow.h...
+  QrCode.cpp
+  main.cpp
+  mainwindow.cpp
+  moc_mainwindow.cpp
+mainwindow.cpp(40): warning C4189: “text”: 局部变量已初始化但不引用
+  untitled.vcxproj -> D:\untitled\release\untitled.exe
